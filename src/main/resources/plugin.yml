@@ -1,0 +1,7 @@
+name: Ojousama
+main: net.azisaba.ojousama.Ojousama
+version: @version@
+api-version: 1.13
+commands:
+  ojousama:
+    permission: ojousama.command
